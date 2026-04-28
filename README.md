@@ -9,7 +9,7 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 
 ## Print do console do navegador
 
-![semana7.jpeg](semana7.jpeg)
+![Print Console.log](Imagens/semana7.jpeg)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo responsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
