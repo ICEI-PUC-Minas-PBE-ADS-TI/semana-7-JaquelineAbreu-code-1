@@ -4,8 +4,8 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Jaqueline Abreu Silva Lima
+- Matrícula: 1542231
 
 ## Print do console do navegador
 
